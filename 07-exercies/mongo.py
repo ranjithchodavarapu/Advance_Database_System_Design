@@ -1,7 +1,7 @@
 import pymongo
 import datetime
 
-client = pymongo.MongoClient("mongodb+srv://ranju:ranju@employee.m35ak.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://.....:.....@employee.m35ak.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
 db = client.sample_restaurants
 
